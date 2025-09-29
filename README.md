@@ -1,6 +1,5 @@
 # THRESHOLDING
-# Name :PREETHI A K
-# Register No: 212223230156
+
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -29,6 +28,9 @@ Use Otsu's method to segment the image and display the results.
 
 
 ```
+# Name :PREETHI A K
+# Register No: 212223230156
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
